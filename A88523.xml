@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Looke about you, or The fault-finder, and criticall observer, characterising himselfe and others.</title>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88523</idno><idno type="EEBO-CITATION">99862201</idno>
+  <idno type="VID">114352</idno>
+  <idno type="EEBO-PROQUEST">2248529260</idno>
+  
+            <idno type="STC">Wing L3009</idno>
+            <idno type="STC">Thomason E398_25</idno>
+            <idno type="STC">ESTC R201701</idno>
+            <idno type="PROQUEST">99862201</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862201e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88523)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114352)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E398[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Looke about you, or The fault-finder, and criticall observer, characterising himselfe and others.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 16 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Religious satire, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  Church history --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114352:1"/>
+            <head>Looke about you, OR <hi>The Fault-finder, and Criticall Observer,</hi> Characterising himselfe and others.</head>
+            <epigraph>
+               <q>
+                  <l>—Licuit semperque licebit</l>
+                  <l>Parcere personis, dicere de vitiis.</l>
+               </q>
+            </epigraph>
+            <p>I Never was so cleanly a Cooke, as to weare white sleeves; I never delighted to adde water to the Ocean, and like the wren to pisse in the Sea, neither yet have I ever stopped the mouthes of Gods Ministers for his glory, I am no Arminian, neither was Canterbury and I ever yet so intimate, that I now fear his doom.</p>
+            <p>I am no Independent, for the truth is, I depend more then I would, I fancie not neither <hi>Goodwin, Gorton,</hi> or <hi>Saltmarsh,</hi> shall I tell you why? the<note n="*" place="margin">All is trash.</note> anagram of his name doth distaste me, I list not to make a third partie, I once was zealous for Episcopacy, my conscience assu<g ref="char:EOLhyphen"/>ring me, that the Government of the Church by Archbi<g ref="char:EOLhyphen"/>shops and Bishops was according to Gods appointment, they taken away, I should conceive of no Religion as Religion, but that I finde a Presbyterie.</p>
+            <p>I never left my first love, nor ever wore two faces un<g ref="char:EOLhyphen"/>der one hood, neither I must confesse, have I hitherto had that fine policy to be <hi>hic et ubique,</hi> still to be of the strongest side, and therefore I have not yet been poutraied
+<pb n="2" facs="tcp:114352:2"/> with a windmill on my head, and a Cameleon on my fist, I hate a preaching Souldier and a fighting Minister, nor doe I now grieve to thinke that I have fooled my selfe out of the affection both of King and Parliament.</p>
+            <p>I never took on me to fill the seat of justice, onely like<note n="*" place="margin">A drow<g ref="char:EOLhyphen"/>sie Sena<g ref="char:EOLhyphen"/>tor.</note>
+               <hi>Boston,</hi> to take my ease, nor with an intention, only to ad<g ref="char:EOLhyphen"/>minister justice, to those gave the largest bribe, nor ever counted it glory to advance my brothers sonne to the gallowes.</p>
+            <p>
+               <note place="margin">P. Rupert.</note>I never forsook Holland, sailing over to England with an intention to bury my selfe in the ruines thereof, and to win the Epithete bloudie, I never drew my sword a<g ref="char:EOLhyphen"/>gainst them who have been and must bee my preservers, I never was more proud then valiant, nor hath my Uncle now rather cause to curse then extoll me.</p>
+            <p>I am no Pamphleter: you will say, how came we by this then? I answer, even as you came by that same Pamphlet which smelt so unsavoury in the nostrills of some, and so odoriferously in the nostrills of others per<g ref="char:EOLhyphen"/>fume, but I disclaime my selfe ever to have beene the Author of any punie Chronicle or empty Diurnall, full fraught with Legends and Responds, with Letters and Orders; I never had my intelligence from the Westmin<g ref="char:EOLhyphen"/>ster-Walkers, wrapt it up over a pint of Sack at the De<g ref="char:EOLhyphen"/>vill Taverne, a place meet for such a purpose, for hee is the father of lies, nor ever issued it out at the day ap<g ref="char:EOLhyphen"/>pointed, for I should have feared the passage of it cur<g ref="char:EOLhyphen"/>rantly, nor would I have the world thinke that I patched up <hi>Civicus,</hi> a medly of stollen Verses, and fitched Prose, or that I rode post over England and Scotland in one weeke, and yet could make no certaine relation of things done, that when I should have been on my shop-board,
+<pb n="3" facs="tcp:114352:2"/> I have beene compiling in one volumn (and that not a<g ref="char:EOLhyphen"/>mounting to above one sheet and halfe) Domestick and Forraign Newes brought me by my customers, Knights, sworne at Duke <hi>Humphrey</hi>'s Tombe, I ever held it a grosse crime, if my pen had made any false report of my owne Countrey-men, but I should have mourned in sackcloth and ashes, if I had ever belyed the Hollanders,<note place="margin">Moderate In<g ref="char:EOLhyphen"/>telligencer.</note> Veneti<g ref="char:EOLhyphen"/>ans, Polonians and Russians: in plain termes, I verily be<g ref="char:EOLhyphen"/>lieve should I have uttered falshoods in never so mode<g ref="char:EOLhyphen"/>rate a manner, there would have beene found some, who in plaine English, would have termed them lies, but the Proverb is true, some may steale a horse better then others looke on.</p>
+            <p>I never was a Dove in appearance, and an Owle in substance, I have hitherto had enough moisture in my braine, wherewith sufficiently to lengthen out my inke, matter enough to compile the volumn of a sheet, not bumbasting it out with borrowed sayings, stollen from <hi>Plutarch, Cicero,</hi> and <hi>Theophrast.</hi>
+            </p>
+            <p>I am no Anabaptist, for I feare to enter into a hop<g ref="char:EOLhyphen"/>sacke, and in it to bee plunged over head and eares in new Jordan, I dare not to presume so to tempt God, for feare least the liquid element should over-whelme mee, I affect not <hi>Green</hi> no more then I adhere to <hi>Pocling<g ref="char:EOLhyphen"/>tons</hi> Tenents, nay I wish the Anabaptists either conver<g ref="char:EOLhyphen"/>sion, or the fate of Leyden, their grand instructor.</p>
+            <p>I never libelled against Church and State, neither was I the Authour of the Answer to nine Arguments, nor did ever raile against the Church-Ministers Wor<g ref="char:EOLhyphen"/>ship, Government, terming them Antichristian and Di<g ref="char:EOLhyphen"/>abolicall, Englands Birthright tooke not its birth from mee, nor was I the broacher of that unheard of and
+<pb n="4" facs="tcp:114352:3"/> monstrous Doctrine, that the State universall, the Bo<g ref="char:EOLhyphen"/>dy of the common people, is the earthly Soveraigne, Lord, King, and Creator of the King, Parliament, &amp;c. all Officers and Ministers of Justice, underived Majestie, and Kingship inherently resides in the State universall, &amp;c. neither am I at this time immured in a cage of stone, nor in feare of the wrath both of Prince and State.</p>
+            <p>I attribute not the fate of things, to chance or fortune, nor yet do I conclude, that from the benevolent, or ma<g ref="char:EOLhyphen"/>levolent aspects of the Planets at the time of birth, man hath his after good or evill, and yet I despise not Astrolo<g ref="char:EOLhyphen"/>gy with some, nor abhorre it with others, but esteem it, as a noble and excellent science, not to be attained without undefatigable paine, and the professors thereof worthy respect and honour.</p>
+            <p>I never exclaimed against those things which I once defended; for so I should but discover mine owne imper<g ref="char:EOLhyphen"/>fections: it is sufficient to me, that I have revolted, with<g ref="char:EOLhyphen"/>out horror to my conscience, if I have formerly ere I was throughly inlightned, been carried away forcibly with the streame of the times, and worne the surplice and em<g ref="char:EOLhyphen"/>blem of purity (as some would have it) I should forbear to call it now, the smock of the whore of Babilon, lest thereby I purchase mine owne shame.</p>
+            <p>I am no Politician, yet aver thus much that the poor are too much kept under, the rich too sublimely triumph, lear<g ref="char:EOLhyphen"/>ning is too much neglected, ignorance, too highly exal<g ref="char:EOLhyphen"/>ted, that corruption is too much in use, bribes too far take place, brothels are too numerous, drunkenness too frequent and pride carried more pompously on the backes of men, and women, then ever before.</p>
+            <p>I am no Papist, yet I can indure the picture of a man or
+<pb n="5" facs="tcp:114352:3"/> woman, painted on the glasse-windowes of a Church, without offence, I hold it<note n="*" place="margin">So also to make pictures of Angels.</note> sin to frame the picture of Christ as he is God, then consequently as he is Man, for his Godhead, and manhood are individuall; yet I am not troubled to see the picture of <hi>Caesar, of William</hi> the Con<g ref="char:EOLhyphen"/>querour and any other mortall in Churches, and I believe with the proverbe, that they that are offended thereat, are more nice, then wife.</p>
+            <p>I disclaime the Antinomian Heresie, for I believe if I aske not the forgivenesse of my sins here, I shall howle for them in hell heareafter, I dare to pin my faith on pro<g ref="char:EOLhyphen"/>found <hi>Calvin</hi> for this, that though our sins are forgiven in Gods decree, yet they are not actually so, till actually repented of.</p>
+            <p>I am no Seeker, neither ever yet was I sent, by those that terme themselves the brethren, with commission, to compasse England, from Dan, even to Bersheba, from London to Yorke, to reduce instruct and confirme, ought to seduce, infect and destroy, I want faith to believe, that M. <hi>R. S.</hi> the Hatter, M. <hi>W. D.</hi> the Weaver, and M. <hi>M.T.</hi> the Spectacle maker, are Apostles rightly called, or right<g ref="char:EOLhyphen"/>ly qualified, I hold it were more tending to the glory of God and the good of his Church, if the one furnished his brethren with hats, the other with points, and the other with spectacles.</p>
+            <p>I am no Poet, nor if I would strive to be one by art, my nature sufficiently inclining thereto, could I get one drop of water from the Thespian font, for the Muses have forsaken <hi>Pernassus,</hi> and <hi>Apollo</hi> throwne away his Harpe, out of meere indignation, that the Poetasters of this Ile, so lately abused their names, while Cutters, Sale<g ref="char:EOLhyphen"/>men, yea even Tapsters durst (although in grievous verse)
+<pb n="6" facs="tcp:114352:4"/> celebrate the name of a famous<note n="*" place="margin">The Earle of Essex.</note> Peer, while they bewail<g ref="char:EOLhyphen"/>ed his death, the Muses bewailed their ignorance, and their owne disgrace, and doe wish that this Verse were found in the front of our Printers or Stationers shops, to hinder the entrance of so many bald rimes.</p>
+            <q>
+               <l>—Verum</l>
+               <l>Nihil, securius est malo Poeta.</l>
+            </q>
+            <p>I am no Neuter, for I know when the publike good lieth at the stake, he that gathereth not scattereth, and yet I dare not bee too rash or headie, lest while I fight for God, I strike at God, and while I thinke to aug<g ref="char:EOLhyphen"/>ment his glory, I diminish his glory; I have ever be<g ref="char:EOLhyphen"/>wailed the Kings errour next to Gods wrath, as the cause of our afflictions, and yet I never durst bee so im<g ref="char:EOLhyphen"/>pudent, as to revile him in publike, or so evill-minded, as to curse him in secret, I have esteemed it my duty to pray for his conversion, but my fall from goodnesse to wish his confusion, and in briefe I disclaime any con<g ref="char:EOLhyphen"/>sent by me to bee given, to that Remonstrance, enti<g ref="char:EOLhyphen"/>tuled, a Remonstrance of many thousands of free-borne people in England, but I affectionately consent to the Cities last Petition.</p>
+            <p>I esteem learning next to the Almighty as the prop of the world, yet I take it not to be the sole thing which primarily and immediately fitteth a man for the dispen<g ref="char:EOLhyphen"/>sation of the Word, Gods Spirit is not attaine by lear<g ref="char:EOLhyphen"/>ning, (so far permit mee a Sectary) yet by this conclusion I make not an exclusion, I would have these like Hipo<g ref="char:EOLhyphen"/>crates twins, still go together: the Sectaries say, because most of the Apostles and Disciples of Christ were igno<g ref="char:EOLhyphen"/>rant
+<pb n="7" facs="tcp:114352:4"/> and illiterate men,<note place="margin">The common objection of the Sectaries against learn<g ref="char:EOLhyphen"/>ling, and lear<g ref="char:EOLhyphen"/>ned men.</note> therefore learning is not requisite for the promulgation of the Gospell, but they consider not that before they were sent abroad to teach all Na<g ref="char:EOLhyphen"/>tions, they were miraculously made learned men by Gods immediate inspiration.</p>
+            <p>I am not easie to credit, for so I should esteeme my selfe light, and unsetled, so am I not, obstinately refra<g ref="char:EOLhyphen"/>ctory; for then I might suspect my selfe indocible and sottish, I am easily drawne to believe, that God will dis<g ref="char:EOLhyphen"/>cover still more, and more to his servants, yet this I am certainly perswaded, he will doe in his owne way. I abhorre to think, that vaine men, should take every Chimaera of their braine for an infallible revelation: in Queen <hi>Elizabeths</hi> daies the men of that age thought they had perfected a happy reformation, when they had abo<g ref="char:EOLhyphen"/>lished the Popes power, in King <hi>Iames</hi> his daies, they thought they had no more to doe but, to hold fast what they had gained, but it hath pleased God, to move the hearts of the men of this age to take away the very appea<g ref="char:EOLhyphen"/>rance of Popery; shall we be angry, nay let us rejoyce, God cannot be worshipped with too pure a worship, no matter for outsides, the true worshippers worship in spirit and truth. I verily believe, that many will wonder at these few lines; what then; can they charge the Author with the crimes of <hi>Berkenhead, Lilburne</hi> or <hi>Cverton?</hi> if not, let them rather wonder how the Author could treat of so va<g ref="char:EOLhyphen"/>rious subjects, with so little losse of his owne and others credits.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
